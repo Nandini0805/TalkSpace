@@ -1,7 +1,7 @@
 
-# TalkSpace
+# Talk-a-tive
 
-TalkSpace is a Full Stack Chatting App.
+Talk-a-tive is a Full Stack Chatting App.
 Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
 ## Tech Stack
 
@@ -13,7 +13,8 @@ Uses Socket.io for real time communication and stores user details in encrypted 
   
 ## Demo
 
-[https://talkSpace.herokuapp.com/](https://talkSpace-7fgq.onrender.com)
+[https://talk-a-tive.herokuapp.com/](https://talk-a-tive-7fgq.onrender.com)
+
 
 
 
